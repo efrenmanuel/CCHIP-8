@@ -1,0 +1,10 @@
+.vs/*
+x64/*
+Debug/*
+Release/*
+CCHIP-8/Debug/*
+*.exe
+*.ch8
+*.bytes
+*.py
+*.user
